@@ -3,7 +3,8 @@ backend:
   # Reference: https://www.netlifycms.org/docs/authentication-backends/
   name: github
   branch: master
-  repo: mittalyashu/gridsome-starter-netlifycms
+  repo: hholmes/gridsome-starter-netlifycms
+  app_id: e467888c-3bf3-4cb0-8e2b-2c9236b1df36
 
 media_folder: "static/images"
 public_folder: "static/images"
